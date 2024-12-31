@@ -1,0 +1,9 @@
+let x = ((44 + 23) * (23 - 12)) / 4;
+
+let y = if (x > 100) then 1 else (0);
+
+print(if y > x then y else x);
+
+let z = 2 * (5 + x)
+
+print(z);
